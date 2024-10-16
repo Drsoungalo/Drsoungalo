@@ -6,10 +6,10 @@
     <title>Document</title>
 </head>
 <body>
-<<<<<<< HEAD
+
     <p>je suis Rokia</p>
-=======
+
     <p>je suis Oumar</p>
->>>>>>> master
+
 </body>
 </html>
